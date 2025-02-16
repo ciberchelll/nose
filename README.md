@@ -1,57 +1,9 @@
-```plaintext
-Plan de Negocios
-├── ¿Qué es?
-│   ├── Documento escrito
-│   ├── Define objetivos y métodos
-│   ├── Guía para la gestión
-│   ├── Atrae inversionistas
-│   └── Demuestra habilidad para generar utilidades
-├── Beneficios
-│   ├── Para el negocio
-│   │   ├── Clarifica y enfoca metas
-│   │   ├── Coordina factores clave
-│   │   └── Confronta ideas con la realidad
-│   ├── Para el fundador
-│   │   ├── Fortalece auto-convencimiento
-│   │   └── Motiva al personal
-│   └── Para inversionistas
-│       ├── Atrae financiamiento
-│       ├── Facilita fusiones y adquisiciones
-│       └── Promueve valor en una venta
-├── Mitos
-│   ├── Solo para financiamiento
-│   ├── Debe ser extenso y complejo
-│   ├── No necesita actualizarse
-│   ├── Solo para grandes empresas
-│   ├── Es un documento emocional
-│   └── Ausencia casi asegura el fracaso
-├── Contenido general
-│   ├── Portada
-│   ├── Tabla de contenido
-│   ├── Resumen ejecutivo
-│   ├── Análisis FODA
-│   ├── Descripción de la empresa
-│   ├── Análisis de mercado
-│   ├── Operaciones
-│   ├── Organización y dirección
-│   ├── Análisis financiero
-│   └── Anexos
-└── Contenido para clínicas veterinarias
-    ├── Identidad de la clínica
-    │   ├── Visión
-    │   ├── Misión
-    │   ├── Historial
-    │   └── Recursos Humanos
-    ├── Mercado
-    │   ├── Análisis de mascotas en la zona
-    │   └── Competencia
-    ├── Servicios
-    │   ├── Médicos
-    │   └── No médicos
-    ├── Mercadotecnia
-    │   ├── Educación al cliente
-    │   └── Retención y captación
-    └── Finanzas
-        ├── Estado de Pérdidas y Ganancias
-        ├── Flujo de Efectivo
-        └── Presupuestos
+# Cuadro Sinóptico: Plan de Negocios
+
+| **Punto** | **Lectura Complementaria 1** | **Lectura Complementaria 2** |
+|-----------|-------------------------------|-------------------------------|
+| **¿Qué es un plan de negocios?** | Documento escrito que define los objetivos de un negocio y describe los métodos para alcanzarlos. Sirve como guía para la gestión y para atraer inversionistas. | Documento que demuestra la habilidad de una clínica u hospital veterinario para generar utilidades y ser atractivo para inversionistas y profesionales. |
+| **¿Cuáles son sus beneficios?** | - Clarifica y enfoca metas.<br>- Ayuda a coordinar factores clave.<br>- Permite confrontar ideas con la realidad.<br>- Atrae inversionistas y socios.<br>- Es una herramienta de control y referencia. | - Fortalece el auto-convencimiento del fundador.<br>- Motiva al personal.<br>- Atrae asociados y personal calificado.<br>- Facilita la obtención de financiamiento.<br>- Apoya fusiones y adquisiciones.<br>- Promueve el valor del negocio en una venta. |
+| **Mitos de los planes de negocios** | - Solo es necesario para buscar financiamiento.<br>- Debe ser extenso y complejo.<br>- No necesita actualizarse.<br>- Solo es para grandes empresas. | - No es un documento emocional.<br>- No debe ser obligatorio.<br>- No garantiza el éxito, pero su ausencia casi asegura el fracaso. |
+| **¿Qué debe contener un plan de negocios?** | 1. Portada<br>2. Tabla de contenido<br>3. Resumen ejecutivo<br>4. Análisis FODA<br>5. Descripción de la empresa<br>6. Análisis de mercado<br>7. Operaciones<br>8. Organización y dirección<br>9. Análisis financiero<br>10. Anexos | 1. Resumen ejecutivo<br>2. Identidad de la clínica (Visión, Misión, Historial, Recursos Humanos)<br>3. Descripción del mercado<br>4. Oferta de servicios y productos<br>5. Plan de mercadotecnia<br>6. Estrategia de precios<br>7. Finanzas y presupuestos<br>8. Anexos |
+| **¿Qué debe contener un plan de negocios para una clínica u hospital veterinario?** | - Descripción de servicios veterinarios.<br>- Análisis de mercado específico para mascotas.<br>- Plan de marketing enfocado en educación al cliente.<br>- Estrategia de precios y honorarios.<br>- Proyecciones financieras (Estado de Pérdidas y Ganancias, Flujo de Efectivo). | - Visión y Misión de la clínica.<br>- Análisis del mercado de mascotas en la zona.<br>- Descripción de servicios médicos y no médicos.<br>- Plan de mercadotecnia con enfoque en retención y captación de clientes.<br>- Estrategia de precios basada en valor agregado.<br>- Proyecciones financieras detalladas. |
